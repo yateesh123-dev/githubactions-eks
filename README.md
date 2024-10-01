@@ -1,4 +1,5 @@
 default nginx image without using ecr
+
 name: Deploy EKS Cluster
  
 on:
